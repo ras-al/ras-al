@@ -23,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ras-al&show_icons=true&locale=en&layout=compact" alt="ras-al" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ras-al&show_icons=true&locale=en" alt="rslkp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ras-al&show_icons=true&locale=en" alt="ras-al" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ras-al&" alt="ras-al" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=ras-al&" alt="ras-al" /></p>
