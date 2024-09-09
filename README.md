@@ -20,9 +20,3 @@
 <a href="https://instagram.com/ras_al._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rasalkp__k" height="30" width="40" /></a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ras-al&show_icons=true&locale=en&layout=compact" alt="ras-al" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ras-al&show_icons=true&locale=en" alt="ras-al" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?username=ras-al&" alt="ras-al" /></p>
