@@ -8,7 +8,7 @@
 
 - 👨‍🏫 Trying to Understand More Things
 
-- 👨‍💻 Interested in Programming and Technology 
+- 👨‍💻 Interested in Programming and Innovations
 
 - 👯 I’m looking to collaborate on **Python**
 
