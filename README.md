@@ -6,11 +6,15 @@
 
 - 🌱 I’m currently learning **Btech CSE**
 
+- 👨‍🏫 Trying to Understand More Things
+
+- 👨‍💻 Interested in Programming and Technology 
+
 - 👯 I’m looking to collaborate on **Python**
 
 - 💬 Ask me about **Python & C**
 
-- 📫 How to reach me **rasalkpk66@gmail.com**
+- 📫 How to reach me : **rasalkpk66@gmail.com**
 
 - ⚡ Fun fact **I THINK I AM A GENIUS :D**
 
