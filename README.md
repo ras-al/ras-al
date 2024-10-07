@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Python**
 
-- 💬 Ask me about **Python & C**
+- 💬 Ask me about **Python & C++**
 
 - 📫 How to reach me : **rasalkpk66@gmail.com**
 
