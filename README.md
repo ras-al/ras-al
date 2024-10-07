@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RASAL MUSTHAFA</h1>
-<h2 align="center">New Account, Old Account <a href="https://github.com/Rslkp">Rslkp</a></h2>
+<h2 align="center">New Account
 <h3 align="center">A Passionate Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ras-al&label=Profile%20views&color=0e75b6&style=flat" alt="ras-al" /> </p>
