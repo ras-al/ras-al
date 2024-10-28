@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm RASAL MUSTHAFA</h1>
-<h2 align="center">New Account
 <h3 align="center">A Passionate Programmer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ras-al&label=Profile%20views&color=0e75b6&style=flat" alt="ras-al" /> </p>
@@ -16,7 +15,7 @@
 
 - 📫 How to reach me : **rasalkpk66@gmail.com**
 
-- ⚡ Fun fact **I THINK I AM A GENIUS :D**
+- ⚡ **NOTHING BUT SOMETHING:D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
