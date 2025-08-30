@@ -7,11 +7,7 @@
 
 - 👨‍🏫 Trying to Understand More Things
 
-- 👨‍💻 Interested in Programming and Innovations
-
-- 👯 I’m looking to collaborate on **Python**
-
-- 💬 Ask me about **Python, C++,C **
+- 👨‍💻 Interested in Programming and Projects
 
 - 📫 How to reach me : **rasalkpk66@gmail.com**
 
