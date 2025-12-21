@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RASAL MUSTHAFA</h1>
-<h3 align="center">A Passionate Programmer from India</h3>
+<h3 align="center">CSE student | Open Source Contributor | Interested in GSoC 2026</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ras-al&label=Profile%20views&color=0e75b6&style=flat" alt="ras-al" /> </p>
 
