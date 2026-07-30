@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm RASAL MUSTHAFA</h1>
-<h3 align="center">CSE student | Open Source Contributor | Interested in GSoC 2026</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ras-al&label=Profile%20views&color=0e75b6&style=flat" alt="ras-al" /> </p>
 
@@ -9,7 +8,7 @@
 
 - 👨‍💻 Interested in Programming and Projects
 
-- 📫 How to reach me : **rasalkpk66@gmail.com**
+- 📫 How to reach me : **rasalmusthafa.k@gmail.com**
 
 - ⚡ **NOTHING BUT SOMETHING:D**
 
